@@ -1,6 +1,5 @@
 Um jogo de Batalha Naval desenvolvido em C, com posicionamento manual ou automático, modo Jogador vs CPU, modo PvP no mesmo computador, IA simples e registro automático de estatísticas em CSV.
 
-Estrutura do Projeto src/ ├── board.c → lógica do tabuleiro ├── fleet.c → navios e regras de posicionamento ├── game.c → lógica principal do jogo ├── io.c → entrada e saída (menus e leitura de coordenadas) ├── rnd.c → gerador aleatório ├── stats.c → gravação de estatísticas no CSV ├── main.c → função principal └── *.h → cabeçalhos de cada módulo
 
 Como Compilar
 
